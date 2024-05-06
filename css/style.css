@@ -3,6 +3,9 @@
         width: 45vh;
         height: 30vh;
     }
+    img {
+        max-height: 30vh;
+    }
 }
 @media screen and (max-width: 998px)  {
     div {
